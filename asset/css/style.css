@@ -49,6 +49,13 @@ header ul li{
   background-color: orange;
 }
 
+.bg-violet{
+  width: 600px;
+  height: 250px;
+  background-color: violet;
+  margin: 0 auto;
+}
+
 .border-black{
   border: 1px dotted black;
 }
@@ -56,4 +63,15 @@ header ul li{
 .text-right{
   justify-content: flex-end;
 }
+
+/* Hero Section */
+
+.first-section{
+  background-color: darkblue;
+  padding: 40px 0 60px 0;
+  display: flex;
+  justify-content: center;
+}
+
+
 
