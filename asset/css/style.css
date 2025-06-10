@@ -3,3 +3,57 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* Header */
+
+header{
+  background-color: lightblue;
+  padding: 10px 0;
+}
+
+.header-container{
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.col-20{
+  width: 20%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.col-60{
+  width: 60%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header ul{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  list-style: none;
+}
+
+header ul li{
+  margin: 0 5px;
+}
+
+/* Utility */
+
+.bg-orange{
+  background-color: orange;
+}
+
+.border-black{
+  border: 1px dotted black;
+}
+
+.text-right{
+  justify-content: flex-end;
+}
+
