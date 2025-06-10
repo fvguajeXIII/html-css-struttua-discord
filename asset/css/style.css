@@ -118,3 +118,24 @@ header ul li{
   padding: 40px 0;
   background-color: lightgray;
 }
+
+/* Footer Top */
+
+.footer-top{
+  background-color: #23272a;
+  padding: 40px 0;
+}
+
+.footer-col{
+  height: 400px;
+}
+
+.footer-col-40{
+  width: 40%;
+  background-color: salmon;
+}
+
+.footer-col-15{
+  width: 15%;
+  background-color: aquamarine;
+}
