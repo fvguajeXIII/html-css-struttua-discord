@@ -98,4 +98,9 @@ header ul li{
   height: 300px;
 }
 
+/* Main Section 2 */
 
+.third-section-3{
+  background-color: lightgray;
+  padding: 40px 0;
+}
